@@ -1,2 +1,1 @@
-# iac-history
-Random work for a chart
+A collection of random hacky scripts to get some stats. Probably not useful for you.
